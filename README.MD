@@ -47,3 +47,8 @@ Technology to be used: (These may change over time)
         - Incorporating physical technology(Scanners: Hand-held, multi-scan system, etc)
 
 
+Technology used at this time (most likely will change)
+1. .Net 3.1
+2. ASP.Net MVC
+3. Entity Framework Core Design
+4. Pomelo Entity Framework MySQL
