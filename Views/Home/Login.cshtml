@@ -1,0 +1,24 @@
+@model LogUser 
+<div class="">
+    
+    <form action="/login" method="post" class="loginform">
+        <div class="form-group">
+            <label for="LUserName">Username</label>
+            <input asp-for="LUserName" class="form-control">
+            <span asp-validation-for="LUserName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label for="LPassword">Password</label>
+            <input asp-for="LPassword" class="form-control">
+            <span asp-validation-for="LPassword" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Submit" class="btn btn-success">
+        </div>
+    </form>
+    
+</div>
+    
+
+
+        

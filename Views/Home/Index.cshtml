@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="pagecontainer">
+    <partial name="_Filters"></partial>
+    @* <partial name="_NavBar"></partial> *@
+    <div class="container">
+        <div class="logoarea row">
+            <div class="logospace col mt-5">
+                <img src="/images/MMLogo.png" alt="MegaMicro Logo">
+            </div>
+            <div class="text-center col mt-5 p-4" id="dealinfo">
+                <h4>Check here daily for all the deals you could ever imagine!</h4>
+                <p class="p-2"> Love what you buy, at the PRICES you love and from the company you LOVE even more!</p>
+            </div>
+        </div>
+
+            
+                @* <div class="col">
+                    <h2 class="my-4">Best Sellers</h2>
+                    <partial name="_Sidebar"></partial>
+                </div> *@
+                <div class="col rounded text-decoration-underline">
+                    <h2 class="my-4">Daily Specials!! Check them out before they're gone!</h2>
+                    <hr>
+                    <div class="col d-flex ">
+                        <partial name="_DailySpecials"></partial>
+                    </div>
+                </div>
+        </div>
+            <div class="mt-5" id="">
+                <h1 class="darkcolor text-center">Weekly Specials</h1>
+            </div>
+                <div class="row">
+                    <partial name="_WeeklySpecials"></partial>
+                    @* <div>
+                        
+                    </div> *@
+                </div>
+            
+    
+    
+                    
+    
+    
+    
+            </div>
+    
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
