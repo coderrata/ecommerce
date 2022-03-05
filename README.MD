@@ -1,11 +1,11 @@
 # C# ECommerce/WMS Project
-###<table><tr><td> MegaMicro: <br>The Leading online computer parts retailer!</td></tr></table>
+<table><tr><td><h1>MegaMicro: <br>The Leading online computer parts retailer!</h1></td></tr></table>
 <br>
 This project is destined to be a business WMS with direct integration with the ECommerce store front.
 <br><br>
-*This project wil develop over time using different approaches at different or the same time. The ECommerce/WMS project will be set-up with the following milestones:*
+<em>This project wil develop over time using different approaches at different times or even the same time. The ECommerce/WMS project will be set-up with the following milestones:</em>
 <hr>
-- [ ] 1. There will be a basic store front, generally correct but nowhere near the finished product. *(Also my pages may be bold for purposes of distinguishing my project from others I am currently working on.)* 
+- [ ] 1. There will be a basic store front, generally correct but nowhere near the finished product. <em>(Also my pages may be bold for purposes of distinguishing my project from others I am currently working on.)</em>
 <br>
 - [ ] 2. Creating an API for accessing data from the front-end
 <br>
@@ -24,7 +24,7 @@ This project is destined to be a business WMS with direct integration with the E
 <br>
 <table><tr><td>Once above completed I will update with more!</td></tr></table>
 <br>
-*There is no login at this time because it is in development and who wants to login everytime you make a change?*
+<em>There is no login at this time because it is in development and who wants to login everytime you make a change?</em>
 
 Intentions of this project is to create a turn-key system for companies to use to manage a store(physical, online), inventory, sales, CRM, Payment integration, shipping, warehouse management and more. 
 
